@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Practica#2\practica2-Cintia-Alvardo\bin\Debug\net7.0\practica2-Cintia-Alvardo.exe
+c:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Practica#2\practica2-Cintia-Alvardo\bin\Debug\net7.0\practica2-Cintia-Alvardo.deps.json
+c:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Practica#2\practica2-Cintia-Alvardo\bin\Debug\net7.0\practica2-Cintia-Alvardo.runtimeconfig.json
+C:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Practica#2\practica2-Cintia-Alvardo\bin\Debug\net7.0\practica2-Cintia-Alvardo.dll
+C:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Practica#2\practica2-Cintia-Alvardo\bin\Debug\net7.0\practica2-Cintia-Alvardo.pdb
+C:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Practica#2\practica2-Cintia-Alvardo\obj\Debug\net7.0\practica2-Cintia-Alvardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Practica#2\practica2-Cintia-Alvardo\obj\Debug\net7.0\practica2-Cintia-Alvardo.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Practica#2\practica2-Cintia-Alvardo\obj\Debug\net7.0\practica2-Cintia-Alvardo.AssemblyInfo.cs
+C:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Practica#2\practica2-Cintia-Alvardo\obj\Debug\net7.0\practica2-Cintia-Alvardo.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Practica#2\practica2-Cintia-Alvardo\obj\Debug\net7.0\practica2-Cintia-Alvardo.dll
+C:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Practica#2\practica2-Cintia-Alvardo\obj\Debug\net7.0\refint\practica2-Cintia-Alvardo.dll
+C:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Practica#2\practica2-Cintia-Alvardo\obj\Debug\net7.0\practica2-Cintia-Alvardo.pdb
+c:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Practica#2\practica2-Cintia-Alvardo\obj\Debug\net7.0\practica2-Cintia-Alvardo.genruntimeconfig.cache
+c:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Practica#2\practica2-Cintia-Alvardo\obj\Debug\net7.0\ref\practica2-Cintia-Alvardo.dll
