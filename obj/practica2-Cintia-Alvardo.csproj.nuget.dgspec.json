@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Practica#2\\practica2-Cintia-Alvardo\\practica2-Cintia-Alvardo.csproj": {}
+    "C:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Practica#2\\practica2-Cintia-Alvardo\\bin\\practica2-Cintia-Alvardo\\practica2-Cintia-Alvardo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Practica#2\\practica2-Cintia-Alvardo\\practica2-Cintia-Alvardo.csproj": {
+    "C:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Practica#2\\practica2-Cintia-Alvardo\\bin\\practica2-Cintia-Alvardo\\practica2-Cintia-Alvardo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Practica#2\\practica2-Cintia-Alvardo\\practica2-Cintia-Alvardo.csproj",
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Practica#2\\practica2-Cintia-Alvardo\\bin\\practica2-Cintia-Alvardo\\practica2-Cintia-Alvardo.csproj",
         "projectName": "practica2-Cintia-Alvardo",
-        "projectPath": "c:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Practica#2\\practica2-Cintia-Alvardo\\practica2-Cintia-Alvardo.csproj",
+        "projectPath": "C:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Practica#2\\practica2-Cintia-Alvardo\\bin\\practica2-Cintia-Alvardo\\practica2-Cintia-Alvardo.csproj",
         "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Practica#2\\practica2-Cintia-Alvardo\\obj\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Practica#2\\practica2-Cintia-Alvardo\\bin\\practica2-Cintia-Alvardo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config"

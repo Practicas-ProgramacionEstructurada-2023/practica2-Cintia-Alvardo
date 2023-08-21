@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Practica#2\\practica2-Cintia-Alvardo\\practica2-Cintia-Alvardo.csproj",
+      "projectUniqueName": "c:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Practica#2\\practica2-Cintia-Alvardo\\bin\\practica2-Cintia-Alvardo\\practica2-Cintia-Alvardo.csproj",
       "projectName": "practica2-Cintia-Alvardo",
-      "projectPath": "C:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Practica#2\\practica2-Cintia-Alvardo\\practica2-Cintia-Alvardo.csproj",
+      "projectPath": "c:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Practica#2\\practica2-Cintia-Alvardo\\bin\\practica2-Cintia-Alvardo\\practica2-Cintia-Alvardo.csproj",
       "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Practica#2\\practica2-Cintia-Alvardo\\obj\\",
+      "outputPath": "c:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Practica#2\\practica2-Cintia-Alvardo\\bin\\practica2-Cintia-Alvardo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config"
